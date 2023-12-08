@@ -1,0 +1,115 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Recipes.Models
+@model Recipes.Models.ViewModels.RecipeViewModel
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+<form method="post">
+    <div class="card shadow border-0 mt-4">
+        <div class="card-header bg-secondary bg-gradient text-light py-4">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h3 class="text-dark text-uppercase">@Model.RecipeName</h3>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="py-3">
+                <div class="row">
+                    <div class="col-6 col-md-2 offset-lg-1 pb-1">
+                        <a class="btn btn-outline-primary bg-gradient mb-5 fw-semibold btn-sm text-uppercase" asp-action="Index">
+                            <small>Back to home</small>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-lg-3 offset-lg-1 text-center mb-3">
+                        <img src="@Model.ImageUrl" width="100%" class="rounded" />
+                    </div>
+                    <div class="col-12 col-lg-6 offset-lg-1">
+                        <div class="row text-center ps-2">
+                            <div class="p-1 col-3 col-lg-3 bg-white border-bottom">
+                                <span class="icon icon-users"></span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white border-bottom">
+                                <span class="icon icon-level"></span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white border-bottom">
+                                <span class="icon icon-calories"></span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white border-bottom">
+                                <span class="icon icon-clock"></span>
+                            </div>
+                        </div>
+                        <div class="row text-center ps-2">
+                            <div class="p-1 col-3 col-lg-3 bg-white text-warning fw-bold">
+                                <span>@Model.PeopleCount</span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white text-warning fw-bold">
+                                <span>@Model.Level</span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white text-warning fw-bold">
+                                <span>@Model.TotalCalories</span>
+                            </div>
+                            <div class="p-1 col-3 col-lg-3 bg-white text-warning fw-bold">
+                                <span>@Model.Duration</span>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row ps-2">
+                            <h6 class="text-dark text-opacity-50 ">Ingredients : @Model.RecipeIngredients</h6>
+                        </div>
+                        <br>
+                        <div class="row ps-2">
+                            <h6 class="text-dark text-opacity-50 ">Description : @Model.RecipeDescription</h6>
+                        </div>
+                        <br>
+                        @if (SignInManager.IsSignedIn(User))
+                        {
+                            <div class="row ps-2">
+                                <div class="col-12 col-lg-3 offset-lg-1 ">
+                                    <div class="p-1">
+                                        @if (Model.IsLiked)
+                                        {
+                                            <a asp-action="IncrementLikes" asp-route-recipeId="@Model.Id" method="post" class="btn btn-danger text-white">
+                                                @Model.TotalLikes <i class="bi bi-hand-thumbs-down"></i>
+                                            </a>
+                                        }
+                                        else
+                                        {
+                                            <a asp-action="IncrementLikes" asp-route-recipeId="@Model.Id" method="post" class="btn btn-danger text-red">
+                                                @Model.TotalLikes <i class="bi bi-hand-thumbs-up-fill"></i>
+                                            </a>
+
+                                        }
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-6 offset-lg-1">
+                                    <div class="p-1">
+                                        @if (Model.IsBookmarked)
+                                        {
+                                            <a asp-action="Bookmark" asp-route-recipeId="@Model.Id" class="btn btn-danger text-red">
+                                                <i class="bi bi-bookmark-heart-fill"></i> Unbookmark
+                                            </a>
+                                        }
+                                        else
+                                        {
+                                            <a asp-action="Bookmark" asp-route-recipeId="@Model.Id" class="btn btn-danger text-red">
+                                                <i class="bi bi-bookmark"></i> Bookmark
+                                            </a>
+
+                                        }
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+

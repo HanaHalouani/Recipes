@@ -1,0 +1,35 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model Recipes.Models.Recipe
+
+<form method="post">
+    <input asp-for="OwningUserId" hidden />
+    <input asp-for="Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Delete Recipe</h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="RecipeName"></label>
+            <input type="text" asp-for="RecipeName" disabled class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="RecipeIngredients"></label>
+            <input type="text" asp-for="RecipeIngredients" disabled class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="RecipeDescription"></label>
+            <textarea asp-for="RecipeDescription" disabled class="form-control"></textarea>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-danger form-control">Delete</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Recipe" asp-action="Index" class="btn btn-secondary border form-control">
+                    Back to Recipes
+                </a>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,96 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Recipes.Models
+@model Recipes.Models.ViewModels.RecipeViewModel
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="OwningUserId" hidden />
+    <input asp-for="TotalLikes" hidden />
+    <input asp-for="ImageUrl" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Update Recipe</h2>
+            <hr />
+        </div>
+        <div class="row">
+            <div class="col-8">
+                <div class="mb-3">
+                    <label asp-for="RecipeName"></label>
+                    <input type="text" asp-for="RecipeName" class="form-control" />
+                    <span asp-validation-for="RecipeName" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="RecipeIngredients"></label>
+                    <input type="text" asp-for="RecipeIngredients" class="form-control" />
+                    <span asp-validation-for="RecipeIngredients" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="RecipeDescription"></label>
+                    <textarea asp-for="RecipeDescription" class="form-control" id="textAreaExample6" rows="3"></textarea>
+                    <span asp-validation-for="RecipeDescription" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="PeopleCount"></label>
+                    <select class="form-control" asp-for="PeopleCount">
+                        @for (int i = 1; i <= 10; i++)
+                        {
+                            <option value="@i">@i</option>
+                        }
+                    </select>
+                    <span asp-validation-for="PeopleCount" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="control-label col-md-2" asp-for="DurationHours"> Hours :</label>
+                    <select class="form-control" asp-for="DurationHours">
+                        @for (int i = 1; i <= 11; i++)
+                        {
+                            <option value="@i">@i</option>
+                        }
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="control-label col-md-2" asp-for="DurationMinutes">Minutes:</label>
+                    <div class="col-md-10">
+                        <select class="form-control" asp-for="DurationMinutes">
+                            @for (int i = 1; i <= 59; i++)
+                            {
+                                <option value="@i">@i</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Level">Level:</label>
+                    <select asp-for="Level" class="form-control">
+                        @foreach (var level in Enum.GetNames(typeof(Level)))
+                        {
+                            <option value="@level">@level</option>
+                        }
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="TotalCalories"></label>
+                    <input type="text" asp-for="TotalCalories" class="form-control" />
+                    <span asp-validation-for="TotalCalories" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="ImageUrl"></label>
+                    <input asp-for="ImageUrl" class="form-control" type="file" name="file" />
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-4">
+                    <img src="@Model.ImageUrl" class="card-img-top rounded" style="width: 15rem;" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary form-control">Update</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Recipe" asp-action="Index" class="btn btn-secondary border form-control">
+                    Back to Recipes
+                </a>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Recipes.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Recipes.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\03102ccb-bb02-4844-b77e-453e2166dfc7.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\03102ccb-bb02-4844-b77e-453e2166dfc7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\0add732d-f126-4e09-b49f-a7b0ba9df18b.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\0add732d-f126-4e09-b49f-a7b0ba9df18b.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\1409fd0b-55d5-40ad-82c3-abc6929d6b66.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\1409fd0b-55d5-40ad-82c3-abc6929d6b66.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\1d31e645-d67b-4c40-bfa1-882c40832864.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\1d31e645-d67b-4c40-bfa1-882c40832864.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\1e50ea88-4890-42bd-9a43-dbe2091642a2.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\1e50ea88-4890-42bd-9a43-dbe2091642a2.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\2013a654-a279-42ba-bb27-9cd95cf8129b.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\2013a654-a279-42ba-bb27-9cd95cf8129b.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\26a9f201-8362-4436-a696-7a2810f017cb.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\26a9f201-8362-4436-a696-7a2810f017cb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\35fb472a-b078-49a4-bd48-da2493e51aee.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\35fb472a-b078-49a4-bd48-da2493e51aee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\3a0ef542-6e23-475a-92c1-04baa694e95a.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\3a0ef542-6e23-475a-92c1-04baa694e95a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\421aa73d-0be8-47de-a64e-b0cf27ff5d7d.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\421aa73d-0be8-47de-a64e-b0cf27ff5d7d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\448bfcc7-5674-436b-b98f-8b76cb246ffb.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\448bfcc7-5674-436b-b98f-8b76cb246ffb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\4ec49227-a504-48c4-b152-d0084e7fbba1.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\4ec49227-a504-48c4-b152-d0084e7fbba1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\522ef001-4893-4562-9a4e-4c5d92e49b80.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\522ef001-4893-4562-9a4e-4c5d92e49b80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\54c5a1d9-906c-4740-9036-fc1ef3b06264.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\54c5a1d9-906c-4740-9036-fc1ef3b06264.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\5599e832-7e46-4ba6-b40d-58bfd9973397.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\5599e832-7e46-4ba6-b40d-58bfd9973397.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\56950d4c-65a3-465e-9122-89fd8f637b90.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\56950d4c-65a3-465e-9122-89fd8f637b90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\62fe44b5-33f0-40b8-b11e-456cb9299798.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\62fe44b5-33f0-40b8-b11e-456cb9299798.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\6d16f106-615b-4193-8a56-ae916b3da7cd.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\6d16f106-615b-4193-8a56-ae916b3da7cd.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\75424c72-e714-4d4a-94d6-fce80b256899.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\75424c72-e714-4d4a-94d6-fce80b256899.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\796b64df-19b9-4150-9ba1-7cdefa547264.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\796b64df-19b9-4150-9ba1-7cdefa547264.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\7dcd6ee5-12e2-453d-b674-24d3f68894a1.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\7dcd6ee5-12e2-453d-b674-24d3f68894a1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\844bc4ab-ab92-4af9-8c51-a6f12cdd67ad.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\844bc4ab-ab92-4af9-8c51-a6f12cdd67ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\86b15d90-cebc-4c52-afc5-06b5771ce4f8.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\86b15d90-cebc-4c52-afc5-06b5771ce4f8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\8782b271-0a93-45ab-a4c5-155e845281d7.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\8782b271-0a93-45ab-a4c5-155e845281d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\879912c1-d63b-413c-b913-29c7696bfc23.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\879912c1-d63b-413c-b913-29c7696bfc23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\953d6847-af66-4748-8310-b6382e8c97fb.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\953d6847-af66-4748-8310-b6382e8c97fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\9a1c2b8b-f569-46a4-b1d1-56f1a9ec409c.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\9a1c2b8b-f569-46a4-b1d1-56f1a9ec409c.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\a0962464-357b-4303-b34a-0ad91ba79f4a.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\a0962464-357b-4303-b34a-0ad91ba79f4a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\aef49354-bea5-4d9c-b5b2-82037594ccf4.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\aef49354-bea5-4d9c-b5b2-82037594ccf4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\be8a9d0b-0545-422b-8574-af915bac0642.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\be8a9d0b-0545-422b-8574-af915bac0642.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\c58bd3e8-add3-4af8-806d-7cde7e609f16.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\c58bd3e8-add3-4af8-806d-7cde7e609f16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\c7436ffc-e764-41bc-86b4-7478c665cde2.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\c7436ffc-e764-41bc-86b4-7478c665cde2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\cfaec8f7-37d6-4d9f-8e70-87f887bdf832.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\cfaec8f7-37d6-4d9f-8e70-87f887bdf832.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\d3dd7bf3-7363-4e95-b58c-abb4b47c3a0b.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\d3dd7bf3-7363-4e95-b58c-abb4b47c3a0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\e36d4c65-c9a6-497f-ad0a-dca2790d1299.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\e36d4c65-c9a6-497f-ad0a-dca2790d1299.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\e8616180-5ed0-4c94-9b2b-1012d4c0b769.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\e8616180-5ed0-4c94-9b2b-1012d4c0b769.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\ee2d5a98-f574-406c-859b-379454fb887c.png",
+      "PackagePath": "staticwebassets\\image\\recipe\\ee2d5a98-f574-406c-859b-379454fb887c.png"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\f3bde55a-a6d5-4b4f-8a8c-f28fd657452f.jpg",
+      "PackagePath": "staticwebassets\\image\\recipe\\f3bde55a-a6d5-4b4f-8a8c-f28fd657452f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\image\\recipe\\f7650f72-1561-4189-88a2-d560270d4bda.jpeg",
+      "PackagePath": "staticwebassets\\image\\recipe\\f7650f72-1561-4189-88a2-d560270d4bda.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\js\\recipes.js",
+      "PackagePath": "staticwebassets\\js\\recipes.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HanaHalouani\\source\\repos\\Recipes.Web\\Recipes.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Recipes.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Recipes.Web.props",
+      "PackagePath": "build\\Recipes.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Recipes.Web.props",
+      "PackagePath": "buildMultiTargeting\\Recipes.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Recipes.Web.props",
+      "PackagePath": "buildTransitive\\Recipes.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
